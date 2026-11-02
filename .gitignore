@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode / SPM
+.build/
+Packages/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Output
+build/
+*.app
+*.dmg
+*.zip
+
+# Logs & scratch
+*.log
+.system_generated/
